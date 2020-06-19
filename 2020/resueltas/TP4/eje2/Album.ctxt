@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Album
+comment1.params=
+comment1.target=Album()
+comment2.params=f
+comment2.target=void\ addFoto(Foto)
+comment3.params=f
+comment3.target=void\ removeFoto(Foto)
+comment4.params=fotos
+comment4.target=void\ addFotos(java.util.Vector)
+numComments=5

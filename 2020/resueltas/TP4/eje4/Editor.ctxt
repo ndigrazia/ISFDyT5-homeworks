@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Editor
+comment1.params=
+comment1.target=Editor()
+comment2.params=f
+comment2.target=void\ addFigura(Figura)
+comment3.params=f
+comment3.target=void\ removeFigura(Figura)
+comment4.params=
+comment4.target=double\ calcularArea()
+numComments=5
