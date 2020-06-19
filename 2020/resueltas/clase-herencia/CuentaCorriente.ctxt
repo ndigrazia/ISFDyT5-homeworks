@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=monto
+comment0.target=void\ extraer(float)
+comment1.params=
+comment1.target=float\ getMontoPrestado()
+comment2.params=monto
+comment2.target=void\ setMontoPrestado(float)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

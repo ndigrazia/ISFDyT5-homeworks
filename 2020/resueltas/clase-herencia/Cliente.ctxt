@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cliente()
+comment1.params=c
+comment1.target=void\ addCuentaCorriente(CuentaCorriente)
+comment2.params=c
+comment2.target=void\ removeCuentaCorriente(CuentaCorriente)
+comment3.params=
+comment3.target=int\ total()
+comment4.params=
+comment4.target=float\ sumaTotal()
+numComments=5

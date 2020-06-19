@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getTitular()
+comment1.params=
+comment1.target=java.util.Date\ getFechaCreacion()
+comment2.params=
+comment2.target=float\ getSaldo()
+comment3.params=
+comment3.target=int\ getCantExtraccciones()
+comment4.params=t
+comment4.target=void\ setTitular(java.lang.String)
+comment5.params=fc
+comment5.target=void\ setFechaCreacion(java.util.Date)
+comment6.params=ce
+comment6.target=void\ setCantExtraccciones(int)
+comment7.params=monto
+comment7.target=void\ depositar(float)
+comment8.params=monto
+comment8.target=void\ extraer(float)
+numComments=9

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Persona()
+comment1.params=
+comment1.target=int\ getDni()
+comment2.params=dni
+comment2.target=void\ setDni(int)
+numComments=3

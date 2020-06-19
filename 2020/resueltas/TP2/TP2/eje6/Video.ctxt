@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Video()
+comment1.params=c
+comment1.target=void\ addActor(Persona)
+comment2.params=c
+comment2.target=void\ removeActor(Persona)
+comment3.params=d
+comment3.target=void\ setDirector(Persona)
+comment4.params=
+comment4.target=Persona\ getDirector()
+numComments=5

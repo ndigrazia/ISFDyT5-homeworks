@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tecnico()
+comment1.params=
+comment1.target=int\ sueldo()
+comment2.params=monto
+comment2.target=void\ setMonto(int)
+comment3.params=
+comment3.target=int\ getMonto()
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Administrativo()
+comment1.params=
+comment1.target=int\ sueldo()
+comment2.params=cat
+comment2.target=void\ setCategoria(int)
+comment3.params=
+comment3.target=int\ getCategoria()
+comment4.params=
+comment4.target=int\ getAntiguedad()
+comment5.params=antiguedad
+comment5.target=void\ setAntiguedad(int)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Empleado()
+comment1.params=
+comment1.target=Rol\ getRol()
+comment2.params=rol
+comment2.target=void\ setRol(Rol)
+comment3.params=
+comment3.target=int\ sueldo()
+numComments=4
