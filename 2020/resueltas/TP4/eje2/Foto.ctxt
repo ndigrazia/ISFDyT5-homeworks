@@ -1,5 +1,12 @@
 #BlueJ class context
-comment0.target=Foto
-comment1.params=
-comment1.target=Foto()
-numComments=2
+comment0.params=
+comment0.target=Foto()
+comment1.params=d
+comment1.target=void\ setDescripcion(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescripcion()
+comment3.params=f
+comment3.target=void\ setFecha(java.util.Date)
+comment4.params=
+comment4.target=java.util.Date\ getFecha()
+numComments=5

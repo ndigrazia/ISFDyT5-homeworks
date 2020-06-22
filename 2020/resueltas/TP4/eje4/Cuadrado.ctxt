@@ -1,7 +1,6 @@
 #BlueJ class context
-comment0.target=Cuadrado
+comment0.params=
+comment0.target=Cuadrado()
 comment1.params=
-comment1.target=Cuadrado()
-comment2.params=
-comment2.target=double\ area()
-numComments=3
+comment1.target=double\ area()
+numComments=2
